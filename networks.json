@@ -2,37 +2,13 @@
   "version": "1.0.0",
   "networks": [
     {
-      "name": "opengrid",
-      "host_or_ip": "40.83.192.48",
-      "vpn_host_or_ip": "100.64.0.1",
+      "name": "ctcue grid",
+      "host_or_ip": "grid.ctcue.io",
+      "vpn_host_or_ip": "0.0.0.0",
       "protocol": "http",
       "port": 80,
-      "admin_email": "support@openmined.org",
-      "website": "https://www.openmined.org/",
-      "slack": "https://slack.openmined.org/",
-      "slack_channel": "opengrid"
-    },
-        {
-      "name": "United Nations PET Lab (Mock)",
-      "host_or_ip": "52.225.32.177",
-      "vpn_host_or_ip": "100.64.0.1",
-      "protocol": "http",
-      "port": 80,
-      "admin_email": "support@openmined.org",
-      "website": "https://www.openmined.org/",
-      "slack": "https://slack.openmined.org/",
-      "slack_channel": "petlab"
-    },
-    {
-      "name": "Centre for the Governance of AI (GovAI)",
-      "host_or_ip": "40.83.130.123",
-      "vpn_host_or_ip": "100.64.0.1",
-      "protocol": "http",
-      "port": 80,
-      "admin_email": "support@openmined.org",
-      "website": "https://www.governance.ai/",
-      "slack": "https://slack.openmined.org/",
-      "slack_channel": "govai"
+      "admin_email": "tim@ctcue.com",
+      "website": "https://www.ctcue.com/"
     }
   ]
 }
