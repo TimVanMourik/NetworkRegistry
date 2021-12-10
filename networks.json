@@ -3,7 +3,7 @@
   "networks": [
     {
       "name": "ctcue grid",
-      "host_or_ip": "13.80.74.89",
+      "host_or_ip": "grid.ctcue.io",
       "vpn_host_or_ip": "100.64.0.1",
       "protocol": "http",
       "port": 80,
